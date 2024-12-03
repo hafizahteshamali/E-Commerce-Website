@@ -1,0 +1,40 @@
+@media only screen and (min-width: 992px) and (max-width: 1250px){
+    
+}
+@media only screen and (min-width: 600px) and (max-width: 767px){
+    .footer-content{
+        font-size: 12px;
+    }
+}
+@media only screen and (min-width: 400px) and (max-width: 599px){
+    .footer-content{
+        font-size: 12px;
+    }
+    .footer-nav{
+        flex-direction: column;
+        gap: 30px;
+    }
+    .my-img{
+        order: -1;
+    }
+    .text{
+        font-size: 12px;
+        order: 1;
+    }
+}
+@media only screen and (min-width: 399px) and (max-width: 320px){
+    .footer-content{
+        font-size: 12px;
+    }
+    .footer-nav{
+        flex-direction: column;
+        gap: 30px;
+    }
+    .my-img{
+        order: -1;
+    }
+    .text{
+        font-size: 12px;
+        order: 1;
+    }
+}

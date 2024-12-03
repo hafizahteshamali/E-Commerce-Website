@@ -1,0 +1,5 @@
+export const ActionType = {
+    ALL_PRODUCT: 'ALL_PRODUCT',
+    CART_PRODUCT: 'CART_PRODUCT',
+    DELETE_PRODUCT: 'DELETE_PRODUCT',
+}

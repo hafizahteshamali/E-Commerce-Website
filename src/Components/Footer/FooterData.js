@@ -1,0 +1,1 @@
+export const FooterImages = ["./assets/images/Visa.png", "./assets/images/Mastercard.png", "./assets/images/Paypal.png", "./assets/images/Pay.png", "./assets/images/G-Pay.png",]

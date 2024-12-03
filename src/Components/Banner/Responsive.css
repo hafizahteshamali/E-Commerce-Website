@@ -1,0 +1,144 @@
+
+@media only screen and (min-width: 992px) and (max-width: 1250px){
+    .text-content{
+        padding: 10px !important;
+        margin: 10px;
+    }
+    .lg-heading{
+        font-size: 40px;
+        line-height: 50px;
+    }
+    .banner-para{
+        font-size: 14px;
+    }
+}
+
+@media only screen and (min-width: 768px) and (max-width: 991px){
+    .text-content{
+        padding: 10px !important;
+        margin: 10px;
+    }
+    .lg-heading{
+        font-size: 40px;
+        line-height: 40px;
+        font-size: 30px;
+        width: 100%;
+    }
+    .banner-para{
+        font-size: 14px;
+    }
+    .banner-btn{
+        padding: 10px !important;
+        font-size: 16px;
+    }
+    .count{
+        font-size: 25px;
+    }
+}
+
+@media only screen and (min-width: 600px) and (max-width: 767px){
+    .text-content{
+        padding: 10px !important;
+        margin: 10px;
+    }
+    .lg-heading{
+        font-size: 40px;
+        line-height: 40px;
+        font-size: 30px;
+        width: 100%;
+    }
+    .banner-para{
+        font-size: 14px;
+    }
+    .banner-btn{
+        padding: 10px !important;
+        font-size: 16px;
+    }
+    .count{
+        font-size: 25px;
+    }
+}
+
+@media only screen and (min-width: 400px) and (max-width: 599px){
+    .text-content{
+        padding: 10px !important;
+        margin: 10px;
+    }
+    .lg-heading{
+        font-size: 40px;
+        line-height: 40px;
+        font-size: 30px;
+        width: 100%;
+    }
+    .banner-para{
+        font-size: 14px;
+    }
+    .banner-btn{
+        padding: 10px !important;
+        font-size: 16px;
+    }
+    .count{
+        font-size: 25px;
+    }
+    .banner{
+        flex-direction: column;
+    }
+    .banner-con{
+        width: 100%;
+        text-align: center;
+    }
+    .counting{
+        width: 100%;
+        justify-content: center;
+    }
+    .img-box{
+        width: 100%;
+    }
+    .inner-img{
+        height: 50px;
+        width: 50px;
+        object-fit: contain;
+    }
+}
+
+@media only screen and (min-width: 320px) and (max-width: 399px){
+    .text-content{
+        padding: 10px !important;
+        margin: 10px;
+    }
+    .lg-heading{
+        font-size: 40px;
+        line-height: 40px;
+        font-size: 30px;
+        width: 100%;
+    }
+    .banner-para{
+        font-size: 14px;
+    }
+    .banner-btn{
+        padding: 10px !important;
+        font-size: 16px;
+    }
+    .count{
+        font-size: 25px;
+    }
+    .banner{
+        flex-direction: column;
+    }
+    .banner-con{
+        width: 100%;
+        text-align: center;
+    }
+    .counting{
+        width: 100%;
+        justify-content: center;
+    }
+    .img-box{
+        width: 100%;
+    }
+    .inner-img{
+        height: 50px;
+        width: 50px;
+        object-fit: contain;
+    }
+}
